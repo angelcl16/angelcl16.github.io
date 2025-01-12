@@ -1,5 +1,5 @@
 // Establecer la fecha límite para el contador
-const targetDate = new Date('2025-01-12T18:20:00').getTime();
+const targetDate = new Date('2025-01-12T18:38:00').getTime();
 
 // Elementos de la interfaz
 const countdownElement = document.getElementById("countdown");
